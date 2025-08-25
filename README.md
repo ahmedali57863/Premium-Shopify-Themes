@@ -1,4 +1,6 @@
 # Premium-Shopify-Themes
+<img width="822" height="381" alt="shopify" src="https://github.com/user-attachments/assets/120e6faf-5332-47ff-b8f8-135dc92f5105" />
+
 A collection of 5 premium Shopify themes and vape kit images for building custom e-commerce stores.
 # Premium Shopify Themes & Vape Kit Assets
 
